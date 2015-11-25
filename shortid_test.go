@@ -1,3 +1,8 @@
+// Copyright 2015 Bryan Weber. All rights reserved.
+// Use of this source code is governed by the MIT
+// license that can be found in the LICENSE file.
+
+// The shortid_test package provides tests for the shortid package
 package shortid_test
 
 import (
