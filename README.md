@@ -1,7 +1,7 @@
 shortid
 =======
 
-> Amzingly short non-sequential url-friendly id generator
+> Amazingly short non-sequential url-friendly id generator
 
 Go port of [dylang/shortid](https://github.com/dylang/shortid)
 
